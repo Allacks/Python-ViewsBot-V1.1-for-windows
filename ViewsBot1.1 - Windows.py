@@ -8,7 +8,7 @@ Browser = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s"
 
     
 def watch():
-    webbrowser.get(Browser).open('https://www.youtube.com/watch?v=WXxV9g7lsFE')
+    webbrowser.get(Browser).open('https://www.youtube.com/watch?v=WXxV9g7lsFE') #Put your link here like shown.
  
 
 def threadA():
